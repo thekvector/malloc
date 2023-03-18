@@ -1,7 +1,4 @@
-/*
- * CS 2110 Spring 2018
- * Author: Hisham Kodvavi
- */
+
 
 /* we need this for uintptr_t */
 #include <stdint.h>
